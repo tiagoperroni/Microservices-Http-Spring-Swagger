@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ClientesApplication<clientes>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.tiagoperroni.clientes.ClientesApplication",
+      "projectName": "clientes",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-EstoqueApplication<estoque>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.tiagoperroni.estoque.EstoqueApplication",
+      "projectName": "estoque",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-PedidosApplication<pedidos>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.tiagoperroni.pedidos.PedidosApplication",
+      "projectName": "pedidos",
+      "args": ""
+    }
+  ]
+}
